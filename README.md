@@ -1,12 +1,12 @@
 # Edge Detection Of Image
 
 + Input :
-<p align="center"><img src="https://github.com/Zahra-jafari-2024/Python-Deployment/blob/main/3.PythonPackage/Edge_Detection_Image/Edge_Detection_Image/Ganeshji.jpg" width="300" height="200" ></p> 
+<p align="center"><img src="https://github.com/Zahra-jafari-2024/Edge_Detection_Image/blob/main/Edge_Detection_Image/Ganeshji.jpg" width="300" height="200" ></p> 
 
 <br>
 
 + Output :
-<p align="center"><img src="https://github.com/Zahra-jafari-2024/Python-Deployment/blob/main/3.PythonPackage/Edge_Detection_Image/Edge_Detection_Image/output.jpg" width="300" height="200" ></p>
+<p align="center"><img src="https://github.com/Zahra-jafari-2024/Edge_Detection_Image/blob/main/Edge_Detection_Image/output.jpg" width="300" height="200" ></p>
 
 <br/>
 

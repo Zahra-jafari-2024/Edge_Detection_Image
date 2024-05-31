@@ -13,6 +13,7 @@ setup(
     author="Zahra Jafari", 
     description="image processing technique for finding the boundaries of objects within images",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     install_requires=install_requires,
     author_email="mzahrajafari94@gmail.com",
     packages=["Edge_Detection_Image"]

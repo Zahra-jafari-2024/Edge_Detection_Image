@@ -14,6 +14,7 @@ setup(
     description="image processing technique for finding the boundaries of objects within images",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    url="https://github.com/Zahra-jafari-2024/Edge_Detection_Image",
     install_requires=install_requires,
     author_email="mzahrajafari94@gmail.com",
     packages=["Edge_Detection_Image"]

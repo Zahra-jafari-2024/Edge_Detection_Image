@@ -8,7 +8,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author="zahra jafari",
-    author_email="mzahrajafari94@.com",
+    author_email="mzahrajafari94@gmail.com",
     url="https://github.com/Zahra-jafari-2024/Edge_Detection_Image",
     classifiers=[
         "Programming Language :: Python :: 3",

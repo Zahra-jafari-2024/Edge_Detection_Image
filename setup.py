@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Edge_Detection_Images',
+    name='Edge_Detection_Image',
     version='0.1.1',
     packages=find_packages(),
     description="Edge Detection is a method of segmenting an image into regions of discontinuity",
